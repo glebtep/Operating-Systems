@@ -1,0 +1,37 @@
+[
+  {
+    "name": "UNO",
+    "ticketCount": 2,
+    "timeInStore": 1.0,
+    "joinDelay": 0.0,
+    "VIP": false
+  },
+  {
+    "name": "DOS",
+    "ticketCount": 4,
+    "timeInStore": 0.2,
+    "joinDelay": 0.0,
+    "VIP": false
+  },
+  {
+    "name": "TRES",
+    "ticketCount": 2,
+    "timeInStore": 2,
+    "joinDelay": 0.0,
+    "VIP": false
+  },
+  {
+    "name": "CUATRO",
+    "ticketCount": 2,
+    "timeInStore": 1.0,
+    "joinDelay": 0.0,
+    "VIP": false
+  },
+  {
+    "name": "CINCO",
+    "ticketCount": 2,
+    "timeInStore": 3.0,
+    "joinDelay": 0.0,
+    "VIP": false
+  }
+]
